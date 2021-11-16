@@ -8,6 +8,7 @@ class PostsController < ApplicationController
 		@post = Post.new
 	end
 
+	#redirecting your created post to its own page after submitting
 	def create
 		@post = Post.new(post_params)
 		if @post.save

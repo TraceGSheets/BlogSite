@@ -1,6 +1,7 @@
 # README
 
 This a Blog Site created in Ruby on Rails
+(Ruby, HTML, JavaScript)
 
 * CMPS 401 Project
 

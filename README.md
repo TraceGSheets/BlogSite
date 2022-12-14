@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a Blog Site created in Ruby on Rails
 
-Things you may want to cover:
+* CMPS 401 Project
 
-* Ruby version
+* Allows users to sign in and post whatever they would like to their blog profile
 
-* System dependencies
+* Submitted post all display on the main page of the site
 
-* Configuration
+* Users are allowed to comment on a post
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Added an admin login to edit, review, and delete post if necessary
